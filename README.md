@@ -2,3 +2,5 @@
 
 A new paragraph. 
 This is a demo repo for GitHub class.
+
+One more example edit.
